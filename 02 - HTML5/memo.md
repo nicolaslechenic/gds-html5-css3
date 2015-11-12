@@ -16,7 +16,7 @@
   1.  [Indentation](#indentation)
   1.  [Commentaires](#commentaires) 
   1.  [Accueil](#accueil)
-  1.  [Caractères spéciaux](#caracteres-speciaux)   
+  1.  [Caractères spéciaux](#caractères-spéciaux)   
 
 
 ## Hello world ##
